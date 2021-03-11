@@ -13,4 +13,6 @@ function component(){
     element.appendChild(myIcon);
     return element;
 }
+console.log(1)
+
 document.body.appendChild(component());
